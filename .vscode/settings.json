@@ -1,0 +1,13 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": null
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": false
+  },
+  "editor.formatOnSave": false,
+  "eslint.codeActionsOnSave.mode": "all",
+  "eslint.packageManager": "yarn",
+  "eslint.validate": ["javascript", "javascriptreact"]
+}
